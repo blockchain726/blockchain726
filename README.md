@@ -5,7 +5,7 @@
 
 <h3><img width="30px" height="30px" src="https://github.com/blockchainlover2019/blockchainlover2019/blob/main/skype.png" alt="Skype"/> &nbsp;live:.cid.69c53519481e048d</h3>
 
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨 For You.
+## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨.
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
