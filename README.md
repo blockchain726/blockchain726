@@ -3,8 +3,6 @@
 <h2 font-weight="bold">Blockchain and MERN stack is My Expertise!</h2>
 <p>Is blockchain male or female? I think latter is right. Because it procreated BitCoin, Ethereum and Solana, etc. So many sons and daughters.</p>
 
-<h3><img width="30px" height="30px" src="https://github.com/blockchainlover2019/blockchainlover2019/blob/main/skype.png" alt="Skype"/> &nbsp;live:.cid.c6983e8d2b4d38e8</h3>
-
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨.
 
 <div>
